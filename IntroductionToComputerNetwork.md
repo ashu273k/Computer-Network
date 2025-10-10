@@ -17,7 +17,7 @@ It contains
 
 ---
 
-## (Read this first)
+## Read this first
 
 | Term | Explains|
 |---|---|
@@ -90,9 +90,7 @@ Common ports to memorize for protocol identification and filtering.
 - 443: HTTPS (TLS)
 - 3389: RDP
 
-<p >
-    <img src="./Assests/protocols.jpg" alt="protocols" style="max-width: 300px; height: auto; margin-left: 16px; border-radius: 8px;" />
-</p>
+
 
 Tip: In Wireshark, try filters like `tcp.port == 443` or `udp.port == 53`.
 
@@ -207,10 +205,6 @@ This analogy perfectly illustrates the concept of a layered system.
   - **Copper Wire (Ethernet)**: Electrical signals (e.g., +5V for a '1', 0V for a '0').
   - **Fiber Optic Cable**: Light signals (e.g., laser on/off).
   - **Wireless (Wi-Fi, 4G/5G)**: Radio signals (radio waves).
-
-<p >
-    <img src="./Assests/Network_packet.jpg" alt="Networking packet" style="max-width: 250px; height: auto; margin-left: 16px; border-radius: 8px;" />
-</p>
 
 ---
 
