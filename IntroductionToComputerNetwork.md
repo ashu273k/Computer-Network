@@ -91,7 +91,7 @@ Common ports to memorize for protocol identification and filtering.
 - 3389: RDP
 
 <p >
-    <img src="./Assests/protocols.jpeg" alt="protocols" style="max-width: 300px; height: auto; margin-left: 16px; border-radius: 8px;" />
+    <img src="./Assests/protocols.jpg" alt="protocols" style="max-width: 300px; height: auto; margin-left: 16px; border-radius: 8px;" />
 </p>
 
 Tip: In Wireshark, try filters like `tcp.port == 443` or `udp.port == 53`.
