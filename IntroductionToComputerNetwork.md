@@ -208,11 +208,11 @@ This analogy perfectly illustrates the concept of a layered system.
   - **Fiber Optic Cable**: Light signals (e.g., laser on/off).
   - **Wireless (Wi-Fi, 4G/5G)**: Radio signals (radio waves).
 
----
-
 <p >
     <img src="./Assests/Network_packet.jpg" alt="Networking packet" style="max-width: 250px; height: auto; margin-left: 16px; border-radius: 8px;" />
 </p>
+
+---
 
 ## OSI Model vs TCP/IP Model
 
