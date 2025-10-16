@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <p >
-    <img src="./assests/Computer_network.webp" alt="Networking illustration" style="max-width: 150px; height: auto; margin-left: 16px; border-radius: 8px;" />
+    <img src="./Assests/Computer_network.webp" alt="Networking illustration" style="max-width: 150px; height: auto; margin-left: 16px; border-radius: 8px;" />
 </p>
 <!-- markdownlint-enable MD033 -->
 
@@ -223,7 +223,7 @@ While the OSI model is a theoretical guide, the TCP/IP model is the **practical 
 | Physical (L1) | Network Access | Copper, Fiber, RF |
 
 <p >
-    <img src="./assests/Network_card.jpg" alt="Network-Card" style="max-width: 250px; height: auto; margin-left: 16px; border-radius: 8px;" />
+    <img src="./Assests/Network_card.jpg" alt="Network-Card" style="max-width: 250px; height: auto; margin-left: 16px; border-radius: 8px;" />
 </p>
 
 ---
